@@ -1,13 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18367026&assignment_repo_type=AssignmentRepo)
 # SE_Day1
-Software Engineering Day1 Assignment
-
-#Part 1: Introduction to Software Engineering
-
-SE_Day1_Assignment
-
-#Part 1: Introduction to Software Engineering
-
 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
